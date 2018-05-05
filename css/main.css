@@ -14,7 +14,7 @@ I've left some boilerplate below for you.
 
 body {
     margin-left: auto;
-    margin-right: 0;
+    margin-right: auto;
 
 
 }
@@ -26,6 +26,16 @@ article {
 }
 
 h1 {
+    margin-left: 1.2em;
+}
+
+h2 {
+    margin-left: 1.6em;
+
+}
+p {
+    margin-left: 2.5em;
+    margin-right: 2.5em;
 
 }
 
